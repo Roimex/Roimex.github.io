@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Languages;
+title: Languages
 permalink: /languages
 sidebar_link: true
 ---
