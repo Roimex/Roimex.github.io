@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous;
+title: Miscellaneous
 permalink: /miscellaneous
 sidebar_link: true
 ---
