@@ -26,7 +26,8 @@ order: 1
 
   <dt>Directed Reading</dt>
   <dd>November 2024 - January 2025, Paris</dd>
-  <dd>Read <em>Quantum Information Theory</em> by Mark Wilde with the supervisor Amaury Freslon<br> Authored a <em>Rapport d'Immersion Recherche</em> and personal expository notes</dd>
+  <dd>Read <em>Quantum Information Theory</em> by Mark Wilde with the supervisor Amaury Freslon</dd> 
+  <dd>Authored a <em>Rapport d'Immersion Recherche</em> and personal expository notes</dd>
 
   <dt>Summer School on Differential Geometry</dt>
   <dd>August 2024, Peking University</dd>
