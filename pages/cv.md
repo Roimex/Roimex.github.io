@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vit&aelig;
-permalink: /curriculum_vitae
+title: CV;
+permalink: /CV
 sidebar_link: true
 redirect_from: /cv
 ---
