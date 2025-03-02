@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities;
+title: Activities
 permalink: /activities
 sidebar_link: true
 ---
