@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV;
+title: CV
 permalink: /CV
 sidebar_link: true
 redirect_from: /cv
