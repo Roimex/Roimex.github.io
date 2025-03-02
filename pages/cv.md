@@ -14,7 +14,8 @@ order: 1
 
   <dt>Université Paris-Saclay</dt>
   <dd>Honors Double Degree Program in Mathematics and Physics (LDD MPSI)<br> September 2023 - June 2024, Orsay</dd>
-  <dd>Student ambassador of the <a href="https://www.aps.org/">American Physical Society (APS)</a> at Université Paris-Saclay<br> Founder of the <a href="https://huggingface.co/Universite-Paris-Saclay">Université Paris-Saclay</a> community on Hugging Face</dd>
+  <dd>Student ambassador of the <a href="https://www.aps.org/">American Physical Society (APS)</a> at Université Paris-Saclay</dd>
+  <dd>Founder of the <a href="https://huggingface.co/Universite-Paris-Saclay">Université Paris-Saclay</a> community on Hugging Face</dd>
 </dl>
 
 ## Experience
@@ -37,7 +38,9 @@ order: 1
 
   <dt>L’atelier MATh.en.JEANS</dt>
   <dd>October 2023 - March 2024, Université Paris-Saclay</dd>
-  <dd>Met weekly to discuss mathematical topics proposed by the supervisor Pierre Pansu<br> Authored a <em>rapport écrit d'atelier</em> on <em>Distributivité, le Défi de Launay et Désitération</em> and co-authored a report on <em>Désitération</em> with my peers<br> Presented topics in the poster session at the MATh.en.JEANS conference</dd>
+  <dd>Met weekly to discuss mathematical topics proposed by the supervisor Pierre Pansu</dd>
+  <dd>Authored a <em>rapport écrit d'atelier</em> on <em>Distributivité, le Défi de Launay et Désitération</em> and co-authored a report on <em>Désitération</em> with my peers</dd>
+  <dd>Presented topics in the poster session at the MATh.en.JEANS conference</dd>
 </dl>
 
 ## Skills
