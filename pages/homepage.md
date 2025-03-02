@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /
+title: Homepage
+permalink: /homepage
 ---
 
 I am a second-year undergrad in the Double-Majeure Physique-Mathématiques (DM PM) program at Sorbonne Université. 
