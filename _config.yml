@@ -42,3 +42,9 @@ exclude:
   - README.md
   - jekyll-theme-hydeout.gemspec
   - site.webmanifest
+
+social_links:
+  - { platform: github, user_url: "https://github.com/Roimex" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/yiyi-wan-3b4076267/" }
+  - { platform: hugging-face, user_url: "https://huggingface.co/Roimex" }
+
