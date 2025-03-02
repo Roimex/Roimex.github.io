@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yiyi Wan
 tagline:          'Homepage'
-description:      'Undergrad majoring in math and physics at Sorbonne Université'
+description:      ' '
 url:              https://roimex.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
