@@ -28,8 +28,6 @@ plugins:
   - jekyll-redirect-from
 
 # Sidebar link settings
-home_layout: page
-paginate: false
 sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
