@@ -13,10 +13,6 @@ order: 3
   <dt>Math-Physics Seminar</dt>
   <dd>February - Present, Paris and online</dd>
   <dd>Launched by Xianfeng Jiang, Chen Wei, and me, supervised by Juven Wang.</dd>
-  <dd>Currently studying: 
-    <a href="https://arxiv.org/abs/1905.05391">arXiv:1905.05391</a>,
-    <a href="https://arxiv.org/abs/1712.09542">arXiv:1712.09542</a>.
-  </dd>
   <dd>The Math-Physics Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments in CMT, HEP and mathematical physics, aligned with the <a href="https://indico.math.cnrs.fr/event/11080/">2024 IHES Summer School</a>'s thematic direction.
   <dd>If you are interested, don't hesitate to contact us!</dd>
 
