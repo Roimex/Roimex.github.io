@@ -22,17 +22,17 @@ order: 1
 <dl>
   <dt>Directed Reading</dt>
   <dd>February 2025 - Present, Paris</dd>
-  <dd>Read <em>Introduction to Symplectic Topology</em> by Dusa McDuff and Dietmar Salamon with the supervisor Russell Avdek</dd>
+  <dd>Read <i>Introduction to Symplectic Topology</i> by Dusa McDuff and Dietmar Salamon with the supervisor Russell Avdek</dd>
 
   <dt>Directed Reading</dt>
   <dd>November 2024 - January 2025, Paris</dd>
-  <dd>Read <em>Quantum Information Theory</em> by Mark Wilde with the supervisor Amaury Freslon</dd> 
-  <dd>Authored a <em>Rapport d'Immersion Recherche</em> and personal expository notes</dd>
+  <dd>Read <i>Quantum Information Theory</i> by Mark Wilde with the supervisor Amaury Freslon</dd> 
+  <dd>Authored a <i>Rapport d'Immersion Recherche</i> and personal expository notes</dd>
 
   <dt>L’atelier MATh.en.JEANS</dt>
   <dd>October 2023 - March 2024, Université Paris-Saclay</dd>
   <dd>Met weekly to discuss mathematical topics proposed by the supervisor Pierre Pansu</dd>
-  <dd>Authored a <em>rapport écrit d'atelier</em> on <em>Distributivité, le Défi de Launay et Désitération</em> and co-authored a report on <em>Désitération</em> with my peers</dd>
+  <dd>Authored a <i>rapport écrit d'atelier</i> on <i>Distributivité, le Défi de Launay et Désitération</i> and co-authored a report on <i>Désitération</i> with my peers</dd>
   <dd>Presented topics in the poster session at the MATh.en.JEANS conference</dd>
 </dl>
 
