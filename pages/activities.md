@@ -21,7 +21,7 @@ order: 3
 
   <dt>Reading Group</dt>
   <dd>September - December, Paris</dd>
-  <dd>Reading <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu with Yuan Wang.</dd>
+  <dd>Read <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu with Yuan Wang.</dd>
 </dl>
 
 <h3><i>Σοφία</i></h3>
