@@ -17,6 +17,7 @@ order: 3
     <a href="https://arxiv.org/abs/1905.05391">arXiv:1905.05391</a>,
     <a href="https://arxiv.org/abs/1712.09542">arXiv:1712.09542</a>.
   </dd>
+  <dd>The Math-Physics Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments in CMT, HEP and mathematical physics, aligned with the <a href="https://indico.math.cnrs.fr/event/11080/">2024 IHES Summer School</a>'s thematic direction.
   <dd>If you are interested, don't hesitate to contact us!</dd>
 
   <dt>Reading Group</dt>
