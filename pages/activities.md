@@ -23,7 +23,7 @@ order: 3
   <dd>Reading <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu with Yuan Wang.</dd>
 </dl>
 
-<h2>Organized Σοφία Activities</h2>
+<h2>Organized <i>Σοφία</i> Activities</h2>
 
 <dl>
   <dt><a href="https://huggingface.co/Universite-Paris-Saclay">Université Paris-Saclay</a> Community on Hugging Face</dt>
