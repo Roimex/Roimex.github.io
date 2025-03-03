@@ -29,14 +29,6 @@ order: 1
   <dd>Read <em>Quantum Information Theory</em> by Mark Wilde with the supervisor Amaury Freslon</dd> 
   <dd>Authored a <em>Rapport d'Immersion Recherche</em> and personal expository notes</dd>
 
-  <dt>Summer School on Differential Geometry</dt>
-  <dd>August 2024, Peking University</dd>
-  <dd>Courses taken: Complex Geometry, Riemannian Geometry</dd>
-
-  <dt>Summer School of Algebra and Number Theory</dt>
-  <dd>July 2024 - August 2024, Chinese Academy of Sciences (CAS)</dd>
-  <dd>Courses taken: Representation Theory, Algebraic Geometry</dd>
-
   <dt>L’atelier MATh.en.JEANS</dt>
   <dd>October 2023 - March 2024, Université Paris-Saclay</dd>
   <dd>Met weekly to discuss mathematical topics proposed by the supervisor Pierre Pansu</dd>
