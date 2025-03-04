@@ -20,7 +20,7 @@ order: 3
   <dd>September - December, Paris</dd>
   <dd>Read <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu with Yuan Wang.</dd>
 </dl>
-
+  
 <h3><i>Σοφία</i></h3>
 <dl>
   <dt><a href="https://huggingface.co/Universite-Paris-Saclay">Université Paris-Saclay</a> Community on Hugging Face</dt>
