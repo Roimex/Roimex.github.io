@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yiyi Wan
 tagline:          'Homepage'
-description:      ' '
+description:      'A heart driven by physics,<br> a mind shaped by mathematics,<br> Das Sein schweigt in der Philosophie.'
 url:              https://roimex.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
