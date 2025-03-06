@@ -12,16 +12,11 @@ order: 3
 <dl>
   <dt>Math-Physics Seminar</dt>
   <dd>February - Present, Paris and online</dd>
-  <dd>Launched by Xianfeng Jiang, Chen Wei, and me, supervised by Juven Wang.</dd>
-  <dd>The Math-Physics Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments in CMT, HEP and mathematical physics, aligned with the <a href="https://indico.math.cnrs.fr/event/11080/">2024 IHES Summer School</a>'s thematic direction.
-  <dd>If you are interested, don't hesitate to contact us!</dd>
-
-  <dt>Reading Group</dt>
-  <dd>September - December, Paris</dd>
-  <dd>Read <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu with Yuan Wang.</dd>
+  <dd>Supervised by Juven Wang, the Math-Physics Seminar focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across CMT, HEP and mathematical physics. This seminar aligns with the theme of the <a href="https://indico.math.cnrs.fr/event/11080/">2024 IHES Summer School</a>.</dd>
+  <dd>If you are interested, don't hesitate to reach out!</dd>
 </dl>
   
-<h3><i>Σοφία</i></h3>
+<h3>Science of Intelligence</h3>
 <dl>
   <dt><a href="https://huggingface.co/Universite-Paris-Saclay">Université Paris-Saclay</a> Community on Hugging Face</dt>
   <dd>In preparation.</dd>
