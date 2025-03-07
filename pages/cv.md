@@ -40,10 +40,11 @@ order: 1
 <dl>
   <dt>Programming</dt>
   <dd>Python, MATLAB, R</dd>
+  
   <dt>Languages</dt>
   <dd>Native: 中文 (Mandarin Chinese)</dd>
   <dd>Advanced: English, Français (French)</dd>
   <dd>Intermediate: Italiano (Italian), 日本語 (Japanese)</dd>
   <dd>Just read: Latina (Latin)</dd>
-  <dd>Only grammar: Deutsch (German), Русский (Russian)</dd>
+  <dd>Only grammar: See the rest in my <em>Languages</em> section.</dd>
 </dl>
