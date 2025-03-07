@@ -27,7 +27,7 @@ order: 5
   <dt>العربية (Arabic)</dt>
   <dd><a href="https://docs.google.com/document/d/1edr4W59C1hZIc8qVmCUa2V4Zqk5jrU8g/edit?usp=sharing&ouid=106182589394752820012&rtpof=true&sd=true">Notes</a></dd>
 
-  <dt>עברית (Classical Hebrew)</dt>
+  <dt>עִבְרִית (Classical Hebrew)</dt>
   <dd><a href="https://docs.google.com/document/d/1sM63cbxRKHE2kcPstldddokp34vQFWAb/edit?usp=sharing&ouid=106182589394752820012&rtpof=true&sd=true">Notes</a></dd>
 
   <dt>Ἑλληνική (Ancient Greek)</dt>
