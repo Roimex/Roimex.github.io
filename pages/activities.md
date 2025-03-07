@@ -22,11 +22,6 @@ order: 3
   <dd>In preparation.</dd>
 </dl>
 
-<h3>Other</h3>
-<dl>
-  <dt>Work in progress—it is waiting to be filled!</dt>
-</dl>
-
 <h2>Attended Activities</h2>
 
 <h3>Math-Physics</h3>
