@@ -40,6 +40,20 @@ order: 3
   <dd>Courses taken: Representation Theory, Algebraic Geometry</dd>
 </dl>
 
+<h3>Science of Intelligence</h3>
+<dl>
+  <dt>Neural Computational Modeling Course</dt>
+  <dd>August 2023, Online (by Si Wu’s Lab at IDG McGovern Institute for Brain Research, Peking University)</dd>
+  <dd>Studied single neuron modeling (HH Model, LIF Neuron Model, AdEX Neuron Model, etc.) and neural networks (CANN, RNN, SNN, etc.)</dd>
+  <dd>Used <a href="https://github.com/brainpy/BrainPy">BrainPy</a> to implement their programming.</dd>
+</dl>
+
+<dl>
+  <dt>LSA Summer Institute</dt>
+  <dd>June 2023 - July 2023, UMass Amherst</dd>
+  <dd>Courses taken: Sentence Production, Advanced Psycholinguistics, Recent Advances in Neurolinguistics, Computational Syntax, Introduction to Phonetics, Advanced Phonology</dd>
+</dl>
+
 <h2>Outreach & Public Engagement</h2>
 
 <dl>
