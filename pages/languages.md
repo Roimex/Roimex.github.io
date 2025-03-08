@@ -3,7 +3,7 @@ layout: page
 title: Languages
 permalink: /languages
 sidebar_link: true
-order: 5
+sidebar_sort_order: 5
 ---
 
 <p>
