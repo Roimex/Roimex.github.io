@@ -274,22 +274,17 @@ body {
 
 #sidebar nav {
   display: flex;
-  flex-direction: column;
-  align-items: center; /* Ensures all nav elements are centered */
 }
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
-  align-items: center; /* Ensures the sidebar links are centered */
 }
 
 #sidebar-icon-links {
-  display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: center; /* Ensures vertical centering */
-  gap: 12px; /* Controls spacing between icons */
-  margin-top: 1rem; /* Adjusts vertical spacing above the icons */
+  gap: 10px;
+  margin-top: 1rem;
   max-width: 100%;
 
   @media (min-width: $large-breakpoint) {
@@ -299,24 +294,22 @@ body {
 }
 
 #sidebar-icon-links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;  /* Fixed icon size */
-  height: 32px;
-  text-align: center;
-  margin: 5px; /* Adds space between icons */
+    display: inline-block;
+    width: 36px;  /* Fix icon width */
+    height: 36px; /* Fix icon height */
+    text-align: center;
+    margin: 5px; /* Add space between icons */
 }
 
 #sidebar-icon-links svg {
-  width: 32px;
-  height: 32px;
-  fill: white; /* Ensures icons match sidebar text color */
-  transition: transform 0.2s;
+    width: 36px;
+    height: 36px;
+    fill: white; /* Make sure icons match sidebar text color */
+    transition: transform 0.2s;
 }
 
 #sidebar-icon-links a:hover svg {
-  transform: scale(1.2); /* Adds a subtle hover effect */
+    transform: scale(1.2); /* Add slight hover effect */
 }
 
 #sidebar nav > * {
@@ -325,9 +318,7 @@ body {
 }
 
 #sidebar nav > .icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-block;
   font-size: 1.5rem;
   margin: 0 0.25em;
 }
