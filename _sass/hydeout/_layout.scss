@@ -281,23 +281,28 @@ body {
 }
 
 #sidebar-icon-links {
-    display: flex;
-    justify-content: center;
-    gap: 10px; /* Space between icons */
-    margin-top: 15px;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 0.5rem;
+  max-width: 100%;
+
+  @media (min-width: $large-breakpoint) {
+    justify-content: flex-start;
+    margin-left: -0.25em;
+  }
 }
 
 #sidebar-icon-links a {
-    width: 32px;  /* Set icon width */
-    height: 32px; /* Set icon height */
+    width: 32px;
+    height: 32px;
     display: inline-block;
     text-align: center;
 }
 
 #sidebar-icon-links svg {
-    width: 32px;  /* Set SVG width */
-    height: 32px; /* Set SVG height */
-    fill: white; /* Keep icons white */
+    width: 32px;
+    height: 32px;
+    fill: white;
     transition: transform 0.2s;
 }
 
