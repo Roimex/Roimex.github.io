@@ -3,7 +3,7 @@ layout: page
 title: Activities
 permalink: /activities
 sidebar_link: true
-order: 3
+sidebar_sort_order: 3
 ---
 
 <h2>Organized Activities</h2>
