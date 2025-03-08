@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /CV
 sidebar_link: true
-order: 1
+sidebar_sort_order: 1
 ---
 
 ## Education
