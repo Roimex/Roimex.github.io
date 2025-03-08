@@ -281,15 +281,28 @@ body {
 }
 
 #sidebar-icon-links {
-  flex-flow: row wrap;
-  justify-content: center;
-  margin-top: 1rem;
-  max-width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Space between icons */
+    margin-top: 15px;
+}
 
-  @media (min-width: $large-breakpoint) {
-    justify-content: flex-start;
-    margin-left: -0.25em;
-  }
+#sidebar-icon-links a {
+    width: 32px;  /* Set icon width */
+    height: 32px; /* Set icon height */
+    display: inline-block;
+    text-align: center;
+}
+
+#sidebar-icon-links svg {
+    width: 32px;  /* Set SVG width */
+    height: 32px; /* Set SVG height */
+    fill: white; /* Keep icons white */
+    transition: transform 0.2s;
+}
+
+#sidebar-icon-links a:hover svg {
+    transform: scale(1.2); /* Slight hover effect */
 }
 
 #sidebar nav > * {
