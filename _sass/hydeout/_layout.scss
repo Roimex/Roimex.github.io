@@ -281,9 +281,10 @@ body {
 }
 
 #sidebar-icon-links {
-  flex-flow: row wrap;
-  justify-content: center;
-  margin-top: 1rem;
+  display: flex !important;
+  justify-content: center !important;
+  gap: 10px !important; /* Space between icons */
+  margin-top: 15px !important;
   max-width: 100%;
 
   @media (min-width: $large-breakpoint) {
@@ -294,15 +295,15 @@ body {
 
 #sidebar-icon-links a {
     display: inline-block;
-    width: 24px;  /* Fix icon width */
-    height: 24px; /* Fix icon height */
+    width: 32px;  /* Fix icon width */
+    height: 32px; /* Fix icon height */
     text-align: center;
     margin: 5px; /* Add space between icons */
 }
 
 #sidebar-icon-links svg {
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
     fill: white; /* Make sure icons match sidebar text color */
     transition: transform 0.2s;
 }
