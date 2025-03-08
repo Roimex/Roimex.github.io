@@ -281,10 +281,10 @@ body {
 }
 
 #sidebar-icon-links {
-  display: flex !important;
-  justify-content: center !important;
-  gap: 10px !important; /* Space between icons */
-  margin-top: 15px !important;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 1rem;
   max-width: 100%;
 
   @media (min-width: $large-breakpoint) {
