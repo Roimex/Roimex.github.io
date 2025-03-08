@@ -281,7 +281,7 @@ body {
 }
 
 #sidebar-icon-links {
-  flex-flow: row wrap;
+  flex-flow: flex;
   justify-content: center;
   margin-top: 0.5rem;
   max-width: 100%;
@@ -295,7 +295,7 @@ body {
 #sidebar-icon-links a {
     width: 32px;
     height: 32px;
-    display: inline-block;
+    display: inline-flex;
     text-align: center;
 }
 
