@@ -327,3 +327,23 @@ body {
     font-size: normal;
   }
 }
+
+#sidebar-icon-links a {
+    display: inline-block;
+    width: 24px;  /* Fix icon width */
+    height: 24px; /* Fix icon height */
+    text-align: center;
+    margin: 5px; /* Add space between icons */
+}
+
+#sidebar-icon-links svg {
+    width: 24px;
+    height: 24px;
+    fill: white; /* Make sure icons match sidebar text color */
+    transition: transform 0.2s;
+}
+
+#sidebar-icon-links a:hover svg {
+    transform: scale(1.2); /* Add slight hover effect */
+}
+
