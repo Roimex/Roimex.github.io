@@ -16,7 +16,7 @@ sidebar_sort_order: 3
   <dd>If you are interested, don't hesitate to reach out!</dd>
 
   <dt>Reading Group</dt>
-  <dd>September - December 2024, Paris</dd>
+  <dd>September - November 2024, Paris</dd>
   <dd>Read <i>Differential Forms in Algebraic Topology</i> by Raoul Bott and Loring W. Tu.</dd>
 </dl>
   
