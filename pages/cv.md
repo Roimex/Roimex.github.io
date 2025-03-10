@@ -45,6 +45,6 @@ sidebar_sort_order: 1
   <dd>Native: 中文 (Mandarin Chinese)</dd>
   <dd>Advanced: English, Français (French)</dd>
   <dd>Intermediate: Italiano (Italian), 日本語 (Japanese)</dd>
-  <dd>Just read: Latina (Latin)</dd>
+  <dd>Just read: Latina (Latin), Deutsch (German)</dd>
   <dd>Only grammar: See the rest in my <em>Languages</em> section.</dd>
 </dl>
