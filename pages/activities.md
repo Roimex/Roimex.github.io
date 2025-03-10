@@ -44,7 +44,7 @@ sidebar_sort_order: 3
 </dl>
 
 <dl>
-  <dt>LSA Summer Institute</dt>
+  <dt>LSA Summer Institute – Linguistics as Cognitive Science: Universality and Variation</dt>
   <dd>June - July 2023, UMass Amherst</dd>
   <dd>Courses taken: Sentence Production, Advanced Psycholinguistics, Recent Advances in Neurolinguistics, Computational Syntax, Introduction to Phonetics, Advanced Phonology</dd>
 </dl>
