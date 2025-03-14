@@ -54,7 +54,6 @@ sidebar_sort_order: 3
 </dl>
 
 <h2>Outreach & Public Engagement</h2>
-
-<dl>
-  <dt>Work in progress—it is waiting to be filled!</dt>
-</dl>
+<p>
+  APS (American Physical Society) Student Ambassador
+</p>
