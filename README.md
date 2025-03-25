@@ -1,2 +1,2 @@
 # My Personal Website
-My Personal Website: [https://roimex.github.io/](https://roimex.github.io/)
+Visit my personal website: [https://roimex.github.io/](https://roimex.github.io/)
