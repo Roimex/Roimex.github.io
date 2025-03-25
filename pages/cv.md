@@ -9,10 +9,10 @@ sidebar_sort_order: 1
 ## Education
 <dl>
   <dt>Sorbonne Université</dt>
-  <dd>Honors Double Major in Physics and Mathematics (DM PM)<br> September 2024 - Present, Jussieu</dd>
+  <dd>Double Major in Physics and Mathematics (DM PM)<br> September 2024 - Present, Jussieu</dd>
 
   <dt>Université Paris-Saclay</dt>
-  <dd>Honors Double Degree Program in Mathematics and Physics (LDD MPSI)<br> September 2023 - June 2024, Orsay</dd>
+  <dd>Double Degree Program in Mathematics and Physics (LDD MPSI)<br> September 2023 - June 2024, Orsay</dd>
 </dl>
 
 ## Experience
@@ -24,12 +24,12 @@ sidebar_sort_order: 1
   <dt>Directed Reading</dt>
   <dd>November 2024 - January 2025, Paris</dd>
   <dd>Read <i>Quantum Information Theory</i> by Mark Wilde with the supervisor Amaury Freslon</dd> 
-  <dd>Authored a <i>Rapport d'Immersion Recherche</i> and personal expository notes</dd>
+  <dd>Authored a <i>Rapport d'Immersion Recherche</i> and personal expository notes (under construction)</dd>
 
   <dt>L’atelier MATh.en.JEANS</dt>
   <dd>October 2023 - March 2024, Université Paris-Saclay</dd>
   <dd>Met weekly to discuss mathematical topics proposed by the supervisor Pierre Pansu</dd>
-  <dd>Authored a <i>rapport écrit d'atelier</i> on <i>Distributivité, le Défi de Launay et Désitération</i> and co-authored a report on <i>Désitération</i> with my peers</dd>
+  <dd>Authored a <i>Rapport Écrit d'Atelier</i> on <i>Distributivité, le Défi de Launay et Désitération</i> and co-authored a report on <i>Désitération</i> with my peers</dd>
   <dd>Presented topics in the poster session at the MATh.en.JEANS conference</dd>
 </dl>
 
