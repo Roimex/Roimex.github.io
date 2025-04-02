@@ -19,7 +19,7 @@ sidebar_sort_order: 1
 <dl>
   <dt>ISTA Summer Research Fellowship</dt>
   <dd>June - August 2025, Expected, Vienna</dd>
-  <dd>Accepted into the group of <a href="https://ist.ac.at/en/research/hausel-group/">Tamas Hausel</a></dd>
+  <dd>Supervisor Tamás Hausel</dd>
 
   <dt>Directed Reading</dt>
   <dd>February 2025 - Present, Paris</dd>
