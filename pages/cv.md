@@ -17,6 +17,10 @@ sidebar_sort_order: 1
 
 ## Experience
 <dl>
+  <dt>ISTA Summer Research Fellowship</dt>
+  <dd>June - August 2025, Expected, Vienna</dd>
+  <dd>Accepted into the group of <a href="https://ist.ac.at/en/research/hausel-group/">Tamas Hausel</a></dd>
+
   <dt>Directed Reading</dt>
   <dd>February 2025 - Present, Paris</dd>
   <dd>Read <i>Introduction to Symplectic Topology</i> by Dusa McDuff and Dietmar Salamon with the supervisor Russell Avdek</dd>
