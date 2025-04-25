@@ -40,7 +40,7 @@ sidebar_sort_order: 1
 ## Skills
 <dl>
   <dt>Programming</dt>
-  <dd>Python, MATLAB, R</dd>
+  <dd>Python, R</dd>
   
   <dt>Languages</dt>
   <dd>Native: 中文 (Mandarin Chinese)</dd>
