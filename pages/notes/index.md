@@ -13,5 +13,5 @@ sidebar_sort_order: 4
 <h3>CS</h3>
 <dl>
   <dt>Python</dt>
-  <dd><a href="{{ "notes/python" | relative_url }}">Notes</a></dd>
+  <dd><a href="{{ "/notes/CS/python/" | relative_url }}">Notes</a></dd>
 </dl>
