@@ -9,10 +9,10 @@ sidebar_sort_order: 1
 ## Education
 <dl>
   <dt>Sorbonne Université</dt>
-  <dd>Double Major in Physics and Mathematics (DM PM)<br> September 2024 - Present, Jussieu</dd>
+  <dd>September 2024 - Present, Jussieu</dd>
 
   <dt>Université Paris-Saclay</dt>
-  <dd>Double Degree Program in Mathematics and Physics (LDD MPSI)<br> September 2023 - June 2024, Orsay</dd>
+  <dd>September 2023 - June 2024, Orsay</dd>
 </dl>
 
 ## Experience
