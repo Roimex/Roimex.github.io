@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Attended Activities
-permalink: /activities
-sidebar_link: true
-sidebar_sort_order: 3
+permalink: /activities/attended/science_of_intelligence
 ---
 <h2>Science of Intelligence</h2>
 <dl>
