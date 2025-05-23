@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organized Activities
-permalink: /activities/organized_math_physics
+permalink: /activities/organized/math_physics/
 ---
 
 <h2>Math-Physics</h2>
