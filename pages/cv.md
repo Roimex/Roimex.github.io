@@ -47,5 +47,5 @@ sidebar_sort_order: 1
   <dd>Advanced: English, Français (French)</dd>
   <dd>Intermediate: Italiano (Italian), 日本語 (Japanese)</dd>
   <dd>Just read: Latina (Latin), Deutsch (German)</dd>
-  <dd>Only grammar: See the rest in my <em>Languages</em> section.</dd>
+  <dd>Only grammar: See the rest in my <em>Notes/Languages</em> section.</dd>
 </dl>
