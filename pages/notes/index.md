@@ -16,4 +16,4 @@ sidebar_sort_order: 4
   <dd><a href="{{ "/notes/CS/python/" | relative_url }}">Notes</a></dd>
 </dl>
 
-<h2><a href="{{ "/notes/languages/" | relative_url }}">Languages</h2>
+<h2><a href="{{ "/notes/languages/" | relative_url }}">Languages</a></h2>
