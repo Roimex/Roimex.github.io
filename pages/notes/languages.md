@@ -2,8 +2,6 @@
 layout: page
 title: Languages
 permalink: /languages
-sidebar_link: true
-sidebar_sort_order: 5
 ---
 
 <p>
