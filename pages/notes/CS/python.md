@@ -4,4 +4,4 @@ title: Python
 permalink: /notes/CS/python/
 ---
 
-Test!
+Work in progress—it is waiting to be filled!
