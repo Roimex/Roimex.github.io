@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Languages
-permalink: notes/languages/
+permalink: /notes/languages/
 ---
 
 <p>
