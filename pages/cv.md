@@ -12,7 +12,7 @@ sidebar_sort_order: 1
   <dd>September 2024 - Present, Jussieu</dd>
 
   <dt>Université Paris-Saclay</dt>
-  <dd>September 2023 - June 2024, Orsay</dd>
+  <dd>September 2023 - Present, Orsay</dd>
 </dl>
 
 ## Experience
