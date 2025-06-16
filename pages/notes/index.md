@@ -7,6 +7,9 @@ sidebar_sort_order: 4
 ---
 
 <h2>Math</h2>
+<dl>
+  <dt><a href="{{ "/notes/math/tout-en-un" | relative_url }}">Tout-en-un</a></dt>
+</dl>
 
 <h2>Physics</h2>
 
