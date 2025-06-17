@@ -17,5 +17,5 @@ sidebar_sort_order: 4
 <dl>
   <dt><a href="{{ "/notes/languages/natural_languages" | relative_url }}">Natural Languages</a></dt>
 
-  <dt><a href="{{ "/notes/languages/programming_languages" | relative_url }}">Programming Languages</a></dt>
+  <dt>Programming Languages</dt>
 </dl>
