@@ -3,7 +3,8 @@ layout: page
 title: Tout-en-un
 permalink: /notes/research/tout-en-un
 ---
-
+  They still live as manuscripts for now, but I’ll be typesetting them into LaTeX bit by bit.
+  
 <h2>Logic</h2>
 
 <h2>Category Theory</h2>
@@ -56,13 +57,13 @@ permalink: /notes/research/tout-en-un
 
 <h2>Probability</h2>
 
-<h2>Relativity</h2>
-
 <h2>Classical Mechanics</h2>
 
 <h2>Quantum Mechanics</h2>
 
 <h2>Electromagnetism</h2>
+
+<h2>Relativity</h2>
 
 <h2>QFT</h2>
 
