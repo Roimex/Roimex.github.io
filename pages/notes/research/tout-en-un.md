@@ -17,8 +17,6 @@ permalink: /notes/research/tout-en-un
 
   <dt>Functional Analysis</dt>
 
-  <dt>Measure Theory</dt>
-
   <dt>Differential Equations</dt>
 </dl>
 
