@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Languages
+title: Natural Languages
 permalink: /notes/languages/natural_languages
 ---
 
