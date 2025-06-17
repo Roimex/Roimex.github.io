@@ -6,17 +6,14 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
-<h2>Math</h2>
+<h2>Research</h2>
 <dl>
-  <dt><a href="{{ "/notes/math/tout-en-un" | relative_url }}">Tout-en-un</a></dt>
+  <dt><a href="{{ "/notes/research/tout-en-un" | relative_url }}">Tout-en-un</a></dt>
 </dl>
 
-<h2>Physics</h2>
-
-<h2>CS</h2>
+<h2>Languages</h2>
 <dl>
-  <dt>Python</dt>
-  <dd><a href="{{ "/notes/CS/python/" | relative_url }}">Notes</a></dd>
-</dl>
+  <dt><a href="{{ "/notes/languages/natural_languages" | relative_url }}">Natural Languages</a></dt>
 
-<h2><a href="{{ "/notes/languages/" | relative_url }}">Languages</a></h2>
+  <dt><a href="{{ "/notes/languages/programming_languages" | relative_url }}">Programming Languages</a></dt>
+</dl>
