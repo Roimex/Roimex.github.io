@@ -45,15 +45,6 @@ permalink: /notes/research/tout-en-un
 </dl>
 
 <h2>Geometry</h2>
-<dl>
-  <dt>Differential Geometry</dt>
-
-  <dt>Algebraic Geometry</dt>
-
-  <dt>Complex Geometry</dt>
-
-  <dt>Symplectic Geometry</dt>
-</dl>
 
 <h2>Probability</h2>
 
