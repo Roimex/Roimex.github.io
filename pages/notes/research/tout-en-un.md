@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tout-en-un
-permalink: /notes/math/tout-en-un
+permalink: /notes/research/tout-en-un
 ---
 
 <h2>Logic</h2>
