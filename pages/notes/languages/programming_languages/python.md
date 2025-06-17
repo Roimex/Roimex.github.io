@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python
-permalink: /notes/CS/python/
+permalink: /notes/languages/programming_langugaes/python
 ---
 
 Work in progress—it is waiting to be filled!
