@@ -9,10 +9,10 @@ sidebar_sort_order: 1
 ## Education
 <dl>
   <dt>Sorbonne Université</dt>
-  <dd>September 2024 - Present, Jussieu</dd>
+  <dd>DM PM, September 2024 - Present, Jussieu</dd>
 
   <dt>Université Paris-Saclay</dt>
-  <dd>September 2023 - Present, Orsay</dd>
+  <dd>LDD MPSI, September 2023 - June 2024, Orsay</dd>
 </dl>
 
 ## Experience
